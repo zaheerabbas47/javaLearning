@@ -23,5 +23,6 @@ public class Application {
 		robot1.speak(str1);
 		int number = 45;
 		robot1.jump(number);
+		System.out.println("This is WOKE Change");
 	}
 }
